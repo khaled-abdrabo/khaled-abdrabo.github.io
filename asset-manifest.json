@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.cb4b44bd.css",
-    "main.js": "/static/js/main.52c407af.js",
+    "main.css": "/static/css/main.55ac254a.css",
+    "main.js": "/static/js/main.99b82c6a.js",
     "static/js/845.5260e8f5.chunk.js": "/static/js/845.5260e8f5.chunk.js",
     "static/media/WholecarWhite_PERSONAL_USE_ONLY.otf": "/static/media/WholecarWhite_PERSONAL_USE_ONLY.77d94d9eace89febc341.otf",
     "static/media/frame1_vertical.png": "/static/media/frame1_vertical.d56e76dd91abc6d338a8.png",
@@ -27,11 +27,14 @@
     "static/media/monstock.png": "/static/media/monstock.8c8fc0825c9f09a653a3.png",
     "static/media/Social_Shapes.ttf": "/static/media/Social_Shapes.d016dbc5f71b7fcc2595.ttf",
     "static/media/papajohns.png": "/static/media/papajohns.b7b2cb83fd7d9e067799.png",
-    "static/media/ka_logo_intro_square.png": "/static/media/ka_logo_intro_square.7b9af251bc3218d55d19.png",
     "static/media/carrefour.png": "/static/media/carrefour.d4b5c16443574ee08b22.png",
     "static/media/ezuslyon.png": "/static/media/ezuslyon.2c00c216f480327396f2.png",
     "static/media/eurexpo.png": "/static/media/eurexpo.207e76700fb10522a571.png",
     "static/media/upwork.png": "/static/media/upwork.be9ea342fe0949f2e82d.png",
+    "static/media/ka_logo_intro.gif": "/static/media/ka_logo_intro.9eabbaf08c137ebb191f.gif",
+    "static/media/LEMONMILK-Medium.otf": "/static/media/LEMONMILK-Medium.3d615d9795b5607c2478.otf",
+    "static/media/LEMONMILK-Light.otf": "/static/media/LEMONMILK-Light.febd30d6f2b77941893c.otf",
+    "static/media/BLADRMF_.TTF": "/static/media/BLADRMF_.0c7e2ce28555cce80449.TTF",
     "static/media/flow-free.png": "/static/media/flow-free.8207c6ead4af8691e20a.png",
     "static/media/intermarche.png": "/static/media/intermarche.bc099a5d1d4ba2f4c0d9.png",
     "static/media/basic-perceptrons.png": "/static/media/basic-perceptrons.df104ac129249d7dd0e3.png",
@@ -62,12 +65,12 @@
     "static/media/paper-plane.svg": "/static/media/paper-plane.71ad8bf44763b4a4e6343c43fe3dd5b0.svg",
     "index.html": "/index.html",
     "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
-    "main.cb4b44bd.css.map": "/static/css/main.cb4b44bd.css.map",
-    "main.52c407af.js.map": "/static/js/main.52c407af.js.map",
+    "main.55ac254a.css.map": "/static/css/main.55ac254a.css.map",
+    "main.99b82c6a.js.map": "/static/js/main.99b82c6a.js.map",
     "845.5260e8f5.chunk.js.map": "/static/js/845.5260e8f5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb4b44bd.css",
-    "static/js/main.52c407af.js"
+    "static/css/main.55ac254a.css",
+    "static/js/main.99b82c6a.js"
   ]
 }
