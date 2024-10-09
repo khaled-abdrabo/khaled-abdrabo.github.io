@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.6b47fcb7.css",
-    "main.js": "/static/js/main.46cb0cbc.js",
+    "main.css": "/static/css/main.33350872.css",
+    "main.js": "/static/js/main.deded40c.js",
     "static/js/845.5260e8f5.chunk.js": "/static/js/845.5260e8f5.chunk.js",
     "static/media/WholecarWhite_PERSONAL_USE_ONLY.otf": "/static/media/WholecarWhite_PERSONAL_USE_ONLY.77d94d9eace89febc341.otf",
     "static/media/frame1_vertical.png": "/static/media/frame1_vertical.d56e76dd91abc6d338a8.png",
@@ -9,7 +9,7 @@
     "static/media/Good_Brush.ttf": "/static/media/Good_Brush.b658855a9c12bdd21554.ttf",
     "static/media/MR_TAXI_regular.ttf": "/static/media/MR_TAXI_regular.727d0cf89cfc27cdb863.ttf",
     "static/media/frame1_horizontal.png": "/static/media/frame1_horizontal.18ccae1b6a1209c6d633.png",
-    "static/media/resume_web.pdf": "/static/media/resume_web.b2e59d693f35017a9455.pdf",
+    "static/media/resume_web.pdf": "/static/media/resume_web.64ebb9ed56c2356ecd9a.pdf",
     "static/media/frame2_vertical.png": "/static/media/frame2_vertical.64ef087e4a545062f82f.png",
     "static/media/frame2_horizontal.png": "/static/media/frame2_horizontal.b36e12e5e538e4c235a5.png",
     "static/media/Doctor Glitch.otf": "/static/media/Doctor Glitch.dba195ec081494ebf1e4.otf",
@@ -65,12 +65,12 @@
     "static/media/paper-plane.svg": "/static/media/paper-plane.71ad8bf44763b4a4e6343c43fe3dd5b0.svg",
     "index.html": "/index.html",
     "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
-    "main.6b47fcb7.css.map": "/static/css/main.6b47fcb7.css.map",
-    "main.46cb0cbc.js.map": "/static/js/main.46cb0cbc.js.map",
+    "main.33350872.css.map": "/static/css/main.33350872.css.map",
+    "main.deded40c.js.map": "/static/js/main.deded40c.js.map",
     "845.5260e8f5.chunk.js.map": "/static/js/845.5260e8f5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b47fcb7.css",
-    "static/js/main.46cb0cbc.js"
+    "static/css/main.33350872.css",
+    "static/js/main.deded40c.js"
   ]
 }
